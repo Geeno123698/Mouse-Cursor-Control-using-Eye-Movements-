@@ -1,4 +1,7 @@
+python
+............
 opencv-python
 mediapipe
 pyautogui
+............
 
